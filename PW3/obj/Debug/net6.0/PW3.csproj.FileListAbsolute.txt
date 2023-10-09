@@ -1,0 +1,14 @@
+C:\Users\Олег\source\repos\PW3\PW3\bin\Debug\net6.0\PW3.exe
+C:\Users\Олег\source\repos\PW3\PW3\bin\Debug\net6.0\PW3.deps.json
+C:\Users\Олег\source\repos\PW3\PW3\bin\Debug\net6.0\PW3.runtimeconfig.json
+C:\Users\Олег\source\repos\PW3\PW3\bin\Debug\net6.0\PW3.dll
+C:\Users\Олег\source\repos\PW3\PW3\bin\Debug\net6.0\PW3.pdb
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\PW3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\PW3.AssemblyInfoInputs.cache
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\PW3.AssemblyInfo.cs
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\PW3.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\PW3.dll
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\refint\PW3.dll
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\PW3.pdb
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\PW3.genruntimeconfig.cache
+C:\Users\Олег\source\repos\PW3\PW3\obj\Debug\net6.0\ref\PW3.dll
